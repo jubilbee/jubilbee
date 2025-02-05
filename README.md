@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Camilla%20Babb&fontSize=75&color=gradient&customColorList=2&fontAlign=70)
+<!--[<img align="left" alt="camillababb | Linkedin" width="22px" src="./logmein.svg" />][Linkedin] -->
+
 - 👋 Hi, I’m @jubilbee
 - 👀 I’m interested in ...
 - 🔭 I’m currently working on my capstone project!
@@ -9,6 +11,7 @@
 
 <br/><br/>
 
+
 <!---
 jubilbee/jubilbee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -18,3 +21,5 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=2)
+
+[Linkedin]:https://www.linkedin.com/in/camillababb/
