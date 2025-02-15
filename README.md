@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Camilla%20Babb&fontSize=75&color=gradient&customColorList=2&fontAlign=70)
 <!--[<img align="left" alt="camillababb | Linkedin" width="22px" src="./logmein.svg" />][Linkedin] -->
 
+### About me
 - 👋 Hi, I’m @jubilbee
 - 👀 I’m interested in ...
 - 🔭 I’m currently working on my capstone project!
