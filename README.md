@@ -7,10 +7,10 @@
 <div></div>
   
 ## About me
-- 👋 Hi, I’m @jubilbee
-- 👀 I’m interested in ...
-- 🔭 I’m currently working on my capstone project!
-- 🌱 I’m currently learning Python and SQL
+- 👋 Hi there! I’m Camilla
+- 👀 I’m interested in expanding my coding skills and learning new things!
+- 🔭 I’m currently working on a game!
+- 🌱 I’m currently learning Python, SQL, and Godot
 <!--```yaml
 * YOUR TEXT GOES HERE *
 ```-->
